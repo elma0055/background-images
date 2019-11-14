@@ -30,7 +30,7 @@ a {
 }
 
 .search-btn {
- background-image: kunear-gradient(to bottom, #794431, #8e4a32);
+ background-image: linear-gradient(to bottom, #794431, #8e4a32);
  boder-color: #794431;
 }
 
